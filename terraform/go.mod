@@ -1,4 +1,4 @@
-module github.com/jaxxstorm/teleport-plugins/terraform/v10
+module github.com/gravitational/teleport-plugins/terraform/v10
 
 go 1.19
 
